@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/blogr-responsive/static/css/main.950fef4e.chunk.css",
+    "main.js": "/blogr-responsive/static/js/main.3f01a4e9.chunk.js",
+    "main.js.map": "/blogr-responsive/static/js/main.3f01a4e9.chunk.js.map",
+    "runtime-main.js": "/blogr-responsive/static/js/runtime-main.ba0981fc.js",
+    "runtime-main.js.map": "/blogr-responsive/static/js/runtime-main.ba0981fc.js.map",
+    "static/js/2.58a8496c.chunk.js": "/blogr-responsive/static/js/2.58a8496c.chunk.js",
+    "static/js/2.58a8496c.chunk.js.map": "/blogr-responsive/static/js/2.58a8496c.chunk.js.map",
+    "static/js/3.4b7d1cf7.chunk.js": "/blogr-responsive/static/js/3.4b7d1cf7.chunk.js",
+    "static/js/3.4b7d1cf7.chunk.js.map": "/blogr-responsive/static/js/3.4b7d1cf7.chunk.js.map",
+    "index.html": "/blogr-responsive/index.html",
+    "static/css/main.950fef4e.chunk.css.map": "/blogr-responsive/static/css/main.950fef4e.chunk.css.map",
+    "static/js/2.58a8496c.chunk.js.LICENSE.txt": "/blogr-responsive/static/js/2.58a8496c.chunk.js.LICENSE.txt",
+    "static/media/bg-pattern-circles.bae804b8.svg": "/blogr-responsive/static/media/bg-pattern-circles.bae804b8.svg",
+    "static/media/index.css": "/blogr-responsive/static/media/bg-pattern-intro.bf6b3e1b.svg",
+    "static/media/icon-close.c6580312.svg": "/blogr-responsive/static/media/icon-close.c6580312.svg",
+    "static/media/icon-hamburger.68867946.svg": "/blogr-responsive/static/media/icon-hamburger.68867946.svg",
+    "static/media/illustration-editor-desktop.c6c8050a.svg": "/blogr-responsive/static/media/illustration-editor-desktop.c6c8050a.svg",
+    "static/media/illustration-editor-mobile.b9c7941a.svg": "/blogr-responsive/static/media/illustration-editor-mobile.b9c7941a.svg",
+    "static/media/illustration-laptop-desktop.799209c2.svg": "/blogr-responsive/static/media/illustration-laptop-desktop.799209c2.svg",
+    "static/media/illustration-laptop-mobile.fe1ec0f0.svg": "/blogr-responsive/static/media/illustration-laptop-mobile.fe1ec0f0.svg",
+    "static/media/illustration-phones.fd23559f.svg": "/blogr-responsive/static/media/illustration-phones.fd23559f.svg",
+    "static/media/logo.1591bc20.svg": "/blogr-responsive/static/media/logo.1591bc20.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ba0981fc.js",
+    "static/js/2.58a8496c.chunk.js",
+    "static/css/main.950fef4e.chunk.css",
+    "static/js/main.3f01a4e9.chunk.js"
+  ]
+}
